@@ -1,16 +1,6 @@
-### 👨‍💻 Juan Cruz Beltramo - AI & Data Science Projects 👾
+### 👨‍💻 Juan Cruz Beltramo - Enthusiast in AI, Data Science, and Technology 👾
 
-Hello! I'm Juan Cruz Beltramo, a passionate leader with a background in team management and small/medium-sized enterprises. Currently, I specialize in the captivating realm of **Artificial Intelligence (AI)** and **Data Science**. 🚀
-
-## Experience 🌐
-
-Throughout my career, I've had the privilege of leading teams and steering companies, cultivating valuable skills in strategic decision-making and coordinating innovative projects. My current focus is entirely on the intersection of technology and data.
-
-## Soft Skills 🤝
-
-- **Teamwork**
-- **Performing Under Pressure and Resilience**
-- **Responsibility**
+Hello! I'm Juan Cruz Beltramo, a technology enthusiast with a strong passion for **Artificial Intelligence (AI)**, **Data Science**, and cutting-edge technologies. 🚀
 
 ## Hard Skills 🛠️
 
@@ -19,6 +9,12 @@ Throughout my career, I've had the privilege of leading teams and steering compa
 - **Languages: SQL, Python**
 - **Tools: Power BI**
 
+## Soft Skills 🤝
+
+- **Curiosity and Eagerness to Learn**
+- **Problem-Solving**
+- **Adaptability**
+
 ## Contact 📬
 
 I would love to connect with you! You can find me at:
@@ -26,8 +22,8 @@ I would love to connect with you! You can find me at:
 - **Email:** juancruzb18@gmail.com
 - **LinkedIn:** [Juan Cruz Beltramo](https://www.linkedin.com/in/juancruzbeltramo/)
 
-Feel free to reach out to discuss opportunities, collaborations, or just to chat about AI and Data Science. Thank you for visiting! 👋
+Feel free to reach out to discuss opportunities, collaborations, or simply to chat about the exciting world of technology, big data, and data analysis. Thank you for visiting! 👋
 
 #### About Me:
 
-I am a technology enthusiast with a strong curiosity and eagerness to learn. My passion lies in exploring the latest advancements in the tech world and continuously expanding my knowledge. Let's connect and share our enthusiasm for technology! 🌐✨
+I am deeply passionate about technology, always seeking to stay at the forefront of advancements in AI, Big Data, and Data Science. Let's connect and share our enthusiasm for the fascinating world of tech! 🌐✨
