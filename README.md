@@ -2,6 +2,12 @@
 
 Hello! I'm Juan Cruz Beltramo, a technology enthusiast with a strong passion for **Artificial Intelligence (AI)**, **Data Science**, and cutting-edge technologies. 🚀
 
+## About Me 🌟
+
+Always striving for personal growth, with clear ideas and excellent people management skills. I am capable of working under pressure and in a team, standing out for my strong leadership abilities. My need for self-realization is through continuous learning, maintaining a high level of commitment to the company to achieve goals and exceed expectations.
+
+I am excited about the opportunities that AI and Data Science can offer, and I look forward to continuing to learn and grow in this exciting journey! 🚀✨
+
 ## Hard Skills 🛠️
 
 - **Database Administration and Management**
