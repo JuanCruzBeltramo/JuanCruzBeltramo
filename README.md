@@ -1,29 +1,33 @@
-👨‍💻 Juan Cruz Beltramo - Proyectos de IA & Data Science 👾
+### 👨‍💻 Juan Cruz Beltramo - AI & Data Science Projects 👾
 
-¡Hola! Soy Juan Cruz Beltramo, un apasionado líder con experiencia en la gestión de equipos y pequeñas/medianas empresas. En la actualidad, me especializo en el fascinante mundo de la **Inteligencia Artificial (IA)** y la **Ciencia de Datos**. 🚀
+Hello! I'm Juan Cruz Beltramo, a passionate leader with a background in team management and small/medium-sized enterprises. Currently, I specialize in the captivating realm of **Artificial Intelligence (AI)** and **Data Science**. 🚀
 
-## Experiencia 🌐
+## Experience 🌐
 
-Durante mi carrera, he tenido el privilegio de liderar equipos y dirigir empresas, desarrollando habilidades valiosas en la toma de decisiones estratégicas y la coordinación de proyectos innovadores. Mi enfoque actual está totalmente enfocado en la intersección de la tecnología y los datos.
+Throughout my career, I've had the privilege of leading teams and steering companies, cultivating valuable skills in strategic decision-making and coordinating innovative projects. My current focus is entirely on the intersection of technology and data.
 
 ## Soft Skills 🤝
 
-- **Trabajo en Equipo**
-- **Capacidad de Rendimiento Bajo Presión y Resiliencia**
-- **Responsabilidad**
+- **Teamwork**
+- **Performing Under Pressure and Resilience**
+- **Responsibility**
 
 ## Hard Skills 🛠️
 
-- **Administración y Gestión de Bases de Datos**
-- **Análisis Estadístico y Toma de Decisiones**
-- **Lenguajes: SQL, Python**
-- **Herramientas: Power BI**
+- **Database Administration and Management**
+- **Statistical Analysis and Decision-Making**
+- **Languages: SQL, Python**
+- **Tools: Power BI**
 
-## Contacto 📬
+## Contact 📬
 
-¡Me encantaría conectarme contigo! Puedes encontrarme en:
+I would love to connect with you! You can find me at:
 
-- **Correo:** juancruzb18@gmail.com
+- **Email:** juancruzb18@gmail.com
 - **LinkedIn:** [Juan Cruz Beltramo](https://www.linkedin.com/in/juancruzbeltramo/)
 
-No dudes en contactarme para discutir oportunidades, colaboraciones o simplemente charlar sobre IA y Ciencia de Datos. ¡Gracias por visitar! 👋
+Feel free to reach out to discuss opportunities, collaborations, or just to chat about AI and Data Science. Thank you for visiting! 👋
+
+#### About Me:
+
+I am a technology enthusiast with a strong curiosity and eagerness to learn. My passion lies in exploring the latest advancements in the tech world and continuously expanding my knowledge. Let's connect and share our enthusiasm for technology! 🌐✨
